@@ -1,2 +1,10 @@
-# 30under30.io
-Resurected 30under30.io web page
+# Resurrected 30under30.io web page
+
+A quick and dirty attempt to restore the 30under30.io web page and add a Winners section.
+
+**Sources:**
+- Dropbox files from Anita Schjøll Brede
+- Latest copy from archive.org
+- Google image search for the jury member profile pics :-(
+
+Pull requests are most welcome.
