@@ -2,7 +2,7 @@
 
 A quick and dirty attempt to restore the 30under30.io web page and add a Winners section.
 
-Hosted at http://aoeu.se/30under30.io
+Hosted at http://aioo.be/30under30.io
 
 **Sources:**
 - Dropbox files from Anita Schjøll Brede
